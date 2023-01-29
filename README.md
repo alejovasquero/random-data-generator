@@ -14,7 +14,7 @@ This jupyter notebook create random data with python.
 
 ### Installing
 
-* install python 3
+* Install python 3
 * Install Jupyter Notebook
 
 ## Authors
