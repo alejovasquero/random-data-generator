@@ -1,56 +1,49 @@
 # Random Data Generator
 
-Simple overview of use/purpose.
+This is a simple program for data generation.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Contains multiple functions for random data creation, like strings, numbers in range or addresses.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Anaconda or Jupyter Notebook installed
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* For the initial start we must install [pandas](https://pandas.pydata.org/) an [matplotlib](https://matplotlib.org/)
+
+```
+python -m pip install wheel
+python -m pip install pandas
+python -m pip install matplotlib
+```
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Open the Jupyer Notebook [file](/random-data-generator.ipynb)
+* Execute the functions dependencies 
 
-## Help
+![](img/function_execution.PNG)
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+- [alejovasquero](https://github.com/alejovasquero)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 1.0
+    * Initial version
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GPL GNU License - see the [LICENSE.md](/LICENSE) file for details
 
 ## Acknowledgments
 
